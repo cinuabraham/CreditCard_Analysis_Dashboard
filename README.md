@@ -8,4 +8,5 @@ Explore insight within the Credit Card Transaction dataset. This comprehensive g
 📌 Spend by Category Donut chart: Visual represents clear view of where customers are spending the most; It reveals top spending categories, customer priorities and spending distribution.
 📌 Slicer allows filtering the entire dashboard by individual customer using their full name.
 Dashboard Screenshot :
-![Dashboard Preview].(https://github.com/cinuabraham/CreditCard_Analysis_Dashboard/blob/main/CreditCard_Analysis_Screenshot.png).
+
+🎵📊  Dashboard Screenshot :![Dashboard Preview](https://github.com/cinuabraham/CreditCard_Analysis_Dashboard/blob/main/CreditCard_Analysis_Screenshot.png)
