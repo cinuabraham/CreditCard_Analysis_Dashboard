@@ -26,10 +26,23 @@ Explore insight within the Credit Card Transaction dataset.
 ⚙️Entertainment is the smallest category at 17.71% ($13.05M), but still a significant share of overall spend.
 
 
-📌Monthly Spend Trends
+⚙️ Monthly Spend Trends
 Spending shows a steady upward trend throughout the year, indicating increasing card usage.
 December records the highest spend (~$10M), likely due to holiday shopping and seasonal promotions.
 Early months (Jan–Mar) show comparatively lower spend, suggesting seasonal spending behavior
+
+The leadership team can use these insights to take actions on ways to increase the credit card usage for individual persons based on spending analysis such as:
+
+✅ increasing Online Shopping rewards from 38% share to 42% by offering weekend offer bonuses
+
+✅ lifting Entertainment from 17.7% to 20% by offering event-based bonuses 
+
+✅ Strengthening loyalty programs
+
+✅ simplifying offers, providing customers with certain incentives, vouchers and credits
+
+✅ giving customers clear reasons to use their card more often can help lift both spend and engagement
+
 
 Dashboard Screenshot :
 
